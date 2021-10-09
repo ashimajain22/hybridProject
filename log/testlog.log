@@ -1,0 +1,32 @@
+2021-10-01 06:18:21,820 - Log4jDemo -INFO - ---URL is opened----
+2021-10-01 06:19:10,271 - Log4jDemo -INFO - ---URL is opened----
+2021-10-01 06:19:36,852 - Log4jDemo -INFO - ---URL is opened----
+2021-10-01 06:19:43,377 - Log4jDemo -INFO - login done----
+2021-10-01 06:19:51,886 - Log4jDemo -INFO - login passed
+2021-10-01 07:06:33,583 - Log4jDemo -INFO - ---URL is opened----
+2021-10-01 07:06:39,962 - Log4jDemo -INFO - login done----
+2021-10-01 07:06:48,562 - Log4jDemo -INFO - login passed
+2021-10-01 07:13:15,497 - Log4jDemo -INFO - ---URL is opened----
+2021-10-01 07:13:22,395 - Log4jDemo -INFO - login done----
+2021-10-01 07:13:30,012 - Log4jDemo -INFO - login passed
+2021-10-04 15:55:01,577 - Log4jDemo -INFO - ---URL is opened----
+2021-10-04 15:55:07,836 - Log4jDemo -INFO - login done----
+2021-10-04 15:55:16,419 - Log4jDemo -INFO - login passed
+2021-10-04 16:02:19,838 - Log4jDemo -INFO - ---URL is opened----
+2021-10-04 16:02:28,028 - Log4jDemo -INFO - login done----
+2021-10-04 16:02:36,647 - Log4jDemo -INFO - login passed
+2021-10-04 16:09:28,022 - Log4jDemo -INFO - ---URL is opened----
+2021-10-04 16:09:32,929 - Log4jDemo -INFO - login done----
+2021-10-04 16:09:40,509 - Log4jDemo -INFO - login passed
+2021-10-08 15:04:47,127 - Log4jDemo -INFO - ---URL is opened----
+2021-10-08 15:04:53,956 - Log4jDemo -INFO - login done----
+2021-10-08 15:05:01,721 - Log4jDemo -INFO - login passed
+2021-10-08 20:45:34,375 - Log4jDemo -INFO - ---URL is opened----
+2021-10-08 20:45:41,545 - Log4jDemo -INFO - login done----
+2021-10-08 20:45:49,266 - Log4jDemo -INFO - login passed
+2021-10-08 21:13:24,305 - Log4jDemo -INFO - ---URL is opened----
+2021-10-08 21:13:32,533 - Log4jDemo -INFO - login done----
+2021-10-08 21:13:40,699 - Log4jDemo -INFO - login passed
+2021-10-08 21:24:17,794 - Log4jDemo -INFO - ---URL is opened----
+2021-10-08 21:24:24,763 - Log4jDemo -INFO - login done----
+2021-10-08 21:24:33,394 - Log4jDemo -INFO - login passed
